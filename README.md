@@ -2,7 +2,7 @@ This is a dockerfile which can be used to build my fork of Clementine player for
 
 Although it's mostly for my personal use, everybody is welcome to try it out. I would appreciate any feedback.
 
-##Usage
+## Usage
 Clone this repo than cd in to the directory and run
 
 docker build .
