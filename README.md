@@ -5,6 +5,6 @@ Although it's mostly for my personal use, everybody is welcome to try it out. I 
 ## Usage
 Clone this repo than cd in to the directory and run
 
-docker build .
+`docker build .`
 
 After a long while a file called Clementine-1.3.1.exe should appear. Dockerfile uses my own repos for both Clementine and it's dependencies.
